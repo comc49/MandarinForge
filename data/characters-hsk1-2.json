@@ -1,0 +1,3562 @@
+[
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "tone": 3,
+    "englishMeaning": "I, me",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "手",
+        "meaning": "hand"
+      },
+      {
+        "char": "戈",
+        "meaning": "halberd, spear"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "tone": 3,
+    "englishMeaning": "you (singular)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "亻",
+        "meaning": "person (radical)"
+      },
+      {
+        "char": "尔",
+        "meaning": "you (literary)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "tone": 1,
+    "englishMeaning": "he, him",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "亻",
+        "meaning": "person (radical)"
+      },
+      {
+        "char": "也",
+        "meaning": "also"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "tone": 1,
+    "englishMeaning": "she, her",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "女",
+        "meaning": "woman"
+      },
+      {
+        "char": "也",
+        "meaning": "also"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "tone": 3,
+    "englishMeaning": "good, well",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "女",
+        "meaning": "woman"
+      },
+      {
+        "char": "子",
+        "meaning": "child"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "tone": 4,
+    "englishMeaning": "big, large",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "大",
+        "meaning": "big (pictograph of person with arms stretched)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "tone": 3,
+    "englishMeaning": "small, little",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "小",
+        "meaning": "small (three short strokes)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "中",
+    "pinyin": "zhōng",
+    "tone": 1,
+    "englishMeaning": "middle, center, China",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth, enclosure"
+      },
+      {
+        "char": "丨",
+        "meaning": "vertical stroke (piercing through)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "tone": 2,
+    "englishMeaning": "person, people",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person (pictograph of a walking figure)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "tone": 4,
+    "englishMeaning": "be, is, am, are",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun, day"
+      },
+      {
+        "char": "正",
+        "meaning": "correct, upright"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "tone": 4,
+    "englishMeaning": "not, no (negation)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "不",
+        "meaning": "negation (pictograph of a bird flying upward)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "tone": 0,
+    "englishMeaning": "possessive/attributive particle",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "白",
+        "meaning": "white"
+      },
+      {
+        "char": "勺",
+        "meaning": "spoon, ladle"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "tone": 0,
+    "englishMeaning": "completion aspect particle",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "了",
+        "meaning": "finished (simplified form of 瞭)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "tone": 1,
+    "englishMeaning": "one",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one (single horizontal stroke)"
+      }
+    ],
+    "strokeCount": 1
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "tone": 4,
+    "englishMeaning": "two",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "二",
+        "meaning": "two (two horizontal strokes)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "tone": 1,
+    "englishMeaning": "three",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "三",
+        "meaning": "three (three horizontal strokes)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "tone": 4,
+    "englishMeaning": "four",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "囗",
+        "meaning": "enclosure"
+      },
+      {
+        "char": "儿",
+        "meaning": "legs, child"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "englishMeaning": "five",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "五",
+        "meaning": "five (originally represented five elements)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "tone": 4,
+    "englishMeaning": "six",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "亠",
+        "meaning": "lid/top"
+      },
+      {
+        "char": "八",
+        "meaning": "eight, spread apart"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "tone": 1,
+    "englishMeaning": "seven",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "七",
+        "meaning": "seven (cross with a hook)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "tone": 1,
+    "englishMeaning": "eight",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "八",
+        "meaning": "eight (two strokes spreading apart)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "tone": 3,
+    "englishMeaning": "nine",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "九",
+        "meaning": "nine (bent arm, largest single-digit)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "tone": 2,
+    "englishMeaning": "ten",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "十",
+        "meaning": "ten (cross shape)"
+      }
+    ],
+    "strokeCount": 2
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "tone": 2,
+    "englishMeaning": "year",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "禾",
+        "meaning": "grain, rice plant"
+      },
+      {
+        "char": "千",
+        "meaning": "thousand"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "tone": 4,
+    "englishMeaning": "month, moon",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "月",
+        "meaning": "moon (pictograph of a crescent moon)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "日",
+    "pinyin": "rì",
+    "tone": 4,
+    "englishMeaning": "day, sun",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun (pictograph of the sun with a center dot)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "tone": 1,
+    "englishMeaning": "sky, day, heaven",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one, sky (above a person)"
+      },
+      {
+        "char": "大",
+        "meaning": "big, person with arms spread"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "tone": 3,
+    "englishMeaning": "water",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "水",
+        "meaning": "water (pictograph of flowing water)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "火",
+    "pinyin": "huǒ",
+    "tone": 3,
+    "englishMeaning": "fire",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "火",
+        "meaning": "fire (pictograph of flames)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "山",
+    "pinyin": "shān",
+    "tone": 1,
+    "englishMeaning": "mountain",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "山",
+        "meaning": "mountain (pictograph of three peaks)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "木",
+    "pinyin": "mù",
+    "tone": 4,
+    "englishMeaning": "wood, tree",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "tree (pictograph: trunk, branches, roots)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "金",
+    "pinyin": "jīn",
+    "tone": 1,
+    "englishMeaning": "gold, metal, money",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person"
+      },
+      {
+        "char": "土",
+        "meaning": "earth, soil"
+      },
+      {
+        "char": "王",
+        "meaning": "king, jade"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "土",
+    "pinyin": "tǔ",
+    "tone": 3,
+    "englishMeaning": "earth, soil, ground",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "土",
+        "meaning": "earth (cross on ground symbolizing soil)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "tone": 3,
+    "englishMeaning": "mouth",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth (pictograph of an open mouth)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "目",
+    "pinyin": "mù",
+    "tone": 4,
+    "englishMeaning": "eye",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "目",
+        "meaning": "eye (pictograph of a vertical eye)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "tone": 1,
+    "englishMeaning": "heart, mind",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "心",
+        "meaning": "heart (pictograph of a heart with three lobes)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "手",
+    "pinyin": "shǒu",
+    "tone": 3,
+    "englishMeaning": "hand",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "手",
+        "meaning": "hand (pictograph of a hand with fingers)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "国",
+    "pinyin": "guó",
+    "tone": 2,
+    "englishMeaning": "country, nation",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "囗",
+        "meaning": "enclosure, boundary"
+      },
+      {
+        "char": "玉",
+        "meaning": "jade, treasure"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "tone": 1,
+    "englishMeaning": "home, family",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "宀",
+        "meaning": "roof"
+      },
+      {
+        "char": "豕",
+        "meaning": "pig (livestock under a roof = home)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "tone": 2,
+    "englishMeaning": "come",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "tree"
+      },
+      {
+        "char": "人",
+        "meaning": "person (two people by a tree)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "tone": 4,
+    "englishMeaning": "go, leave",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "土",
+        "meaning": "earth (departing from the earth)"
+      },
+      {
+        "char": "厶",
+        "meaning": "private, personal"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "tone": 1,
+    "englishMeaning": "eat",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth"
+      },
+      {
+        "char": "乞",
+        "meaning": "beg, seek"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "tone": 1,
+    "englishMeaning": "drink",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth"
+      },
+      {
+        "char": "曷",
+        "meaning": "why, when (phonetic)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "学",
+    "pinyin": "xué",
+    "tone": 2,
+    "englishMeaning": "learn, study",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "子",
+        "meaning": "child"
+      },
+      {
+        "char": "爫",
+        "meaning": "claw, hands (reaching for knowledge)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "tone": 1,
+    "englishMeaning": "speak, say, talk",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "兑",
+        "meaning": "exchange, speak out"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "tone": 4,
+    "englishMeaning": "look, see, watch, read",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "手",
+        "meaning": "hand (shading eyes to look)"
+      },
+      {
+        "char": "目",
+        "meaning": "eye"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "tone": 1,
+    "englishMeaning": "listen, hear",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth"
+      },
+      {
+        "char": "斤",
+        "meaning": "axe (attention)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "tone": 3,
+    "englishMeaning": "write",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "冖",
+        "meaning": "cover"
+      },
+      {
+        "char": "与",
+        "meaning": "give"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "tone": 3,
+    "englishMeaning": "buy, purchase",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "乙",
+        "meaning": "second, bent shape"
+      },
+      {
+        "char": "贝",
+        "meaning": "shell, money"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "tone": 4,
+    "englishMeaning": "sell",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "十",
+        "meaning": "ten"
+      },
+      {
+        "char": "买",
+        "meaning": "buy"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "tone": 3,
+    "englishMeaning": "think, want, miss",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "相",
+        "meaning": "mutual, appearance"
+      },
+      {
+        "char": "心",
+        "meaning": "heart"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "tone": 4,
+    "englishMeaning": "love, like, cherish",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "爫",
+        "meaning": "claw, hands"
+      },
+      {
+        "char": "心",
+        "meaning": "heart"
+      },
+      {
+        "char": "夂",
+        "meaning": "walk slowly"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "朋",
+    "pinyin": "péng",
+    "tone": 2,
+    "englishMeaning": "friend, companion",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "月",
+        "meaning": "moon (doubled: two moons together = friends)"
+      },
+      {
+        "char": "月",
+        "meaning": "moon"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "友",
+    "pinyin": "yǒu",
+    "tone": 3,
+    "englishMeaning": "friend",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "又",
+        "meaning": "again, hand"
+      },
+      {
+        "char": "ナ",
+        "meaning": "hand reaching out"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "tone": 2,
+    "englishMeaning": "money, coin",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "钅",
+        "meaning": "metal (radical)"
+      },
+      {
+        "char": "戋",
+        "meaning": "small, narrow"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "时",
+    "pinyin": "shí",
+    "tone": 2,
+    "englishMeaning": "time, period, hour",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun, day"
+      },
+      {
+        "char": "寸",
+        "meaning": "inch, small measure"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "间",
+    "pinyin": "jiān",
+    "tone": 1,
+    "englishMeaning": "between, among, space, room",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "门",
+        "meaning": "door, gate"
+      },
+      {
+        "char": "日",
+        "meaning": "sun (sunlight through a door gap)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "tone": 4,
+    "englishMeaning": "at, in, on, exist",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "土",
+        "meaning": "earth"
+      },
+      {
+        "char": "才",
+        "meaning": "just, talent"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "tone": 3,
+    "englishMeaning": "have, there is/are",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "月",
+        "meaning": "moon, flesh"
+      },
+      {
+        "char": "又",
+        "meaning": "hand, again"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "tone": 2,
+    "englishMeaning": "not have, didn't",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "氵",
+        "meaning": "water (radical)"
+      },
+      {
+        "char": "殳",
+        "meaning": "weapon, club"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "tone": 4,
+    "englishMeaning": "can, know how to, meeting",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person"
+      },
+      {
+        "char": "云",
+        "meaning": "cloud (people gathering like clouds)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "tone": 2,
+    "englishMeaning": "can, able to, capability",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "厶",
+        "meaning": "private"
+      },
+      {
+        "char": "月",
+        "meaning": "flesh/moon"
+      },
+      {
+        "char": "匕",
+        "meaning": "spoon, transform"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yào",
+    "tone": 4,
+    "englishMeaning": "want, need, important",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "西",
+        "meaning": "west"
+      },
+      {
+        "char": "女",
+        "meaning": "woman"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "tone": 3,
+    "englishMeaning": "very, quite",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "彳",
+        "meaning": "step (walking radical)"
+      },
+      {
+        "char": "艮",
+        "meaning": "obstinate, stop"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "也",
+    "pinyin": "yě",
+    "tone": 3,
+    "englishMeaning": "also, too, as well",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "也",
+        "meaning": "also (ancient character for 'he' or flowing water)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "tone": 1,
+    "englishMeaning": "all, both, even",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "者",
+        "meaning": "one who, person"
+      },
+      {
+        "char": "阝",
+        "meaning": "city, mound (right radical)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "englishMeaning": "and, with, harmonious",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "禾",
+        "meaning": "grain, rice"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "喜",
+    "pinyin": "xǐ",
+    "tone": 3,
+    "englishMeaning": "happy, pleased",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "壴",
+        "meaning": "drum (festive instrument)"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth (smiling)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "欢",
+    "pinyin": "huān",
+    "tone": 1,
+    "englishMeaning": "joyful, happy",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "又",
+        "meaning": "again, hand"
+      },
+      {
+        "char": "欠",
+        "meaning": "owe, yawn, lack"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "tone": 2,
+    "englishMeaning": "read (aloud), study",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "卖",
+        "meaning": "sell (phonetic)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "足",
+    "pinyin": "zú",
+    "tone": 2,
+    "englishMeaning": "foot, sufficient",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth, knee joint"
+      },
+      {
+        "char": "止",
+        "meaning": "stop, foot"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "tone": 1,
+    "englishMeaning": "many, much, more",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "夕",
+        "meaning": "evening (doubled: many evenings)"
+      },
+      {
+        "char": "夕",
+        "meaning": "evening"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "tone": 3,
+    "englishMeaning": "few, little, less",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "小",
+        "meaning": "small"
+      },
+      {
+        "char": "丿",
+        "meaning": "slash stroke"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "tone": 1,
+    "englishMeaning": "tall, high",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "亠",
+        "meaning": "lid, top"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth, opening"
+      },
+      {
+        "char": "冂",
+        "meaning": "frame, enclosure"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "tone": 4,
+    "englishMeaning": "up, on, above, go up",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one, baseline"
+      },
+      {
+        "char": "卜",
+        "meaning": "divination, short stroke above line"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "tone": 4,
+    "englishMeaning": "down, below, descend",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one, baseline"
+      },
+      {
+        "char": "卜",
+        "meaning": "short stroke below line"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "前",
+    "pinyin": "qián",
+    "tone": 2,
+    "englishMeaning": "front, before, forward",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "前",
+        "meaning": "stop + boat (moving forward at a dock)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "tone": 4,
+    "englishMeaning": "behind, after, later",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "彳",
+        "meaning": "step, walking"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth (left behind)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "左",
+    "pinyin": "zuǒ",
+    "tone": 3,
+    "englishMeaning": "left",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "工",
+        "meaning": "work, tool"
+      },
+      {
+        "char": "ナ",
+        "meaning": "hand (left hand holding a tool)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "右",
+    "pinyin": "yòu",
+    "tone": 4,
+    "englishMeaning": "right",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth"
+      },
+      {
+        "char": "又",
+        "meaning": "right hand"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "englishMeaning": "inside, within, mile",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "田",
+        "meaning": "field"
+      },
+      {
+        "char": "土",
+        "meaning": "earth"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "外",
+    "pinyin": "wài",
+    "tone": 4,
+    "englishMeaning": "outside, foreign",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "夕",
+        "meaning": "evening, dusk"
+      },
+      {
+        "char": "卜",
+        "meaning": "divination (doing divination outside at dusk)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "tone": 1,
+    "englishMeaning": "east",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "tree"
+      },
+      {
+        "char": "日",
+        "meaning": "sun (sun rising through trees)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "西",
+    "pinyin": "xī",
+    "tone": 1,
+    "englishMeaning": "west",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "西",
+        "meaning": "west (pictograph of a bird in a nest at sunset)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "南",
+    "pinyin": "nán",
+    "tone": 2,
+    "englishMeaning": "south",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "十",
+        "meaning": "ten, cross"
+      },
+      {
+        "char": "冂",
+        "meaning": "frame, enclosure"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "北",
+    "pinyin": "běi",
+    "tone": 3,
+    "englishMeaning": "north",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "北",
+        "meaning": "two people back to back (facing away from north)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "tone": 4,
+    "englishMeaning": "this",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "辶",
+        "meaning": "walk, movement radical"
+      },
+      {
+        "char": "文",
+        "meaning": "writing, culture"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "tone": 4,
+    "englishMeaning": "that",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "冉",
+        "meaning": "tender, gradually"
+      },
+      {
+        "char": "阝",
+        "meaning": "city, mound (right radical)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "tone": 3,
+    "englishMeaning": "which",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth (asking)"
+      },
+      {
+        "char": "那",
+        "meaning": "that (phonetic)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "么",
+    "pinyin": "me",
+    "tone": 0,
+    "englishMeaning": "suffix particle (什么, 怎么)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "么",
+        "meaning": "small, tiny (suffix particle)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "tone": 2,
+    "englishMeaning": "who",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "隹",
+        "meaning": "short-tailed bird"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "怎",
+    "pinyin": "zěn",
+    "tone": 3,
+    "englishMeaning": "how (in 怎么)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "乍",
+        "meaning": "suddenly, for the first time"
+      },
+      {
+        "char": "心",
+        "meaning": "heart, mind"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "名",
+    "pinyin": "míng",
+    "tone": 2,
+    "englishMeaning": "name, famous",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "夕",
+        "meaning": "evening, dusk"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth (calling out in the dark)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "字",
+    "pinyin": "zì",
+    "tone": 4,
+    "englishMeaning": "character, word, letter",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "宀",
+        "meaning": "roof"
+      },
+      {
+        "char": "子",
+        "meaning": "child (child under a roof learning characters)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "语",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "englishMeaning": "language, words",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "吾",
+        "meaning": "I, me (classical)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "tone": 1,
+    "englishMeaning": "book",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "聿",
+        "meaning": "writing brush (simplified)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "tone": 3,
+    "englishMeaning": "book (measure word), root, origin",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "tree"
+      },
+      {
+        "char": "一",
+        "meaning": "mark at the root of the tree"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "课",
+    "pinyin": "kè",
+    "tone": 4,
+    "englishMeaning": "lesson, class, subject",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "果",
+        "meaning": "fruit, result"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "tone": 3,
+    "englishMeaning": "old, aged; (prefix for names)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "耂",
+        "meaning": "old person radical (bent with a cane)"
+      },
+      {
+        "char": "匕",
+        "meaning": "spoon, transform"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "师",
+    "pinyin": "shī",
+    "tone": 1,
+    "englishMeaning": "teacher, master",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "帀",
+        "meaning": "all around"
+      },
+      {
+        "char": "巾",
+        "meaning": "cloth, banner"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "生",
+    "pinyin": "shēng",
+    "tone": 1,
+    "englishMeaning": "life, grow, student, raw",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "生",
+        "meaning": "life (plant growing from the soil)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "男",
+    "pinyin": "nán",
+    "tone": 2,
+    "englishMeaning": "male, man",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "田",
+        "meaning": "field (men worked the fields)"
+      },
+      {
+        "char": "力",
+        "meaning": "strength, power"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "tone": 3,
+    "englishMeaning": "female, woman",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "女",
+        "meaning": "woman (pictograph of a kneeling woman)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "孩",
+    "pinyin": "hái",
+    "tone": 2,
+    "englishMeaning": "child",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "子",
+        "meaning": "child"
+      },
+      {
+        "char": "亥",
+        "meaning": "boar (12th earthly branch, phonetic)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "子",
+    "pinyin": "zǐ",
+    "tone": 3,
+    "englishMeaning": "child, son, seed",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "子",
+        "meaning": "child (pictograph of a baby with arms raised)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "父",
+    "pinyin": "fù",
+    "tone": 4,
+    "englishMeaning": "father",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "父",
+        "meaning": "father (pictograph of a hand holding a stick)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "母",
+    "pinyin": "mǔ",
+    "tone": 3,
+    "englishMeaning": "mother",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "女",
+        "meaning": "woman"
+      },
+      {
+        "char": "一",
+        "meaning": "dots representing nursing (two strokes added)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "兄",
+    "pinyin": "xiōng",
+    "tone": 1,
+    "englishMeaning": "elder brother",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth (speaking authority)"
+      },
+      {
+        "char": "儿",
+        "meaning": "child, legs"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "弟",
+    "pinyin": "dì",
+    "tone": 4,
+    "englishMeaning": "younger brother",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "弓",
+        "meaning": "bow"
+      },
+      {
+        "char": "丨",
+        "meaning": "vertical stroke"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "姐",
+    "pinyin": "jiě",
+    "tone": 3,
+    "englishMeaning": "elder sister",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "女",
+        "meaning": "woman"
+      },
+      {
+        "char": "且",
+        "meaning": "moreover, ancestor tablet"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "妹",
+    "pinyin": "mèi",
+    "tone": 4,
+    "englishMeaning": "younger sister",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "女",
+        "meaning": "woman"
+      },
+      {
+        "char": "未",
+        "meaning": "not yet (still young)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "今",
+    "pinyin": "jīn",
+    "tone": 1,
+    "englishMeaning": "today, now, present",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person"
+      },
+      {
+        "char": "亼",
+        "meaning": "coming together"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "明",
+    "pinyin": "míng",
+    "tone": 2,
+    "englishMeaning": "bright, clear, tomorrow",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun"
+      },
+      {
+        "char": "月",
+        "meaning": "moon (sun and moon together = bright)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "早",
+    "pinyin": "zǎo",
+    "tone": 3,
+    "englishMeaning": "early, morning",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun"
+      },
+      {
+        "char": "十",
+        "meaning": "ten (sun just above the horizon, a short time above)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "englishMeaning": "late, evening, night",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun"
+      },
+      {
+        "char": "免",
+        "meaning": "escape, hare (sun escaping below horizon)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "tone": 3,
+    "englishMeaning": "dot, point, o'clock",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "占",
+        "meaning": "occupy, divine"
+      },
+      {
+        "char": "灬",
+        "meaning": "fire (four-dot fire radical)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "tone": 1,
+    "englishMeaning": "minute, divide, part",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "八",
+        "meaning": "eight, split apart"
+      },
+      {
+        "char": "刀",
+        "meaning": "knife (cutting apart)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "钟",
+    "pinyin": "zhōng",
+    "tone": 1,
+    "englishMeaning": "clock, bell",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "钅",
+        "meaning": "metal (radical)"
+      },
+      {
+        "char": "中",
+        "meaning": "middle"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "昨",
+    "pinyin": "zuó",
+    "tone": 2,
+    "englishMeaning": "yesterday",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun, day"
+      },
+      {
+        "char": "乍",
+        "meaning": "suddenly, just now"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "hái",
+    "tone": 2,
+    "englishMeaning": "still, also, return",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "辶",
+        "meaning": "walk (movement radical)"
+      },
+      {
+        "char": "不",
+        "meaning": "not (going but not staying)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "tone": 4,
+    "englishMeaning": "just, then, already, approach",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "京",
+        "meaning": "capital city"
+      },
+      {
+        "char": "尤",
+        "meaning": "especially, outstanding"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "到",
+    "pinyin": "dào",
+    "tone": 4,
+    "englishMeaning": "arrive, reach, to",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "至",
+        "meaning": "arrive, reach"
+      },
+      {
+        "char": "刀",
+        "meaning": "knife"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "出",
+    "pinyin": "chū",
+    "tone": 1,
+    "englishMeaning": "exit, go out, produce",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "凵",
+        "meaning": "container, open box (emerging from a container)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "tone": 4,
+    "englishMeaning": "enter, advance, come in",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "辶",
+        "meaning": "walk (movement radical)"
+      },
+      {
+        "char": "井",
+        "meaning": "well (entering a well area)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "tone": 1,
+    "englishMeaning": "open, start, drive (vehicle)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one (a bar being lifted)"
+      },
+      {
+        "char": "廾",
+        "meaning": "two hands"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "关",
+    "pinyin": "guān",
+    "tone": 1,
+    "englishMeaning": "close, shut, concern",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "关",
+        "meaning": "close (hands pulling a crossbar shut)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "tone": 3,
+    "englishMeaning": "hit, beat, play, make (a call)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "扌",
+        "meaning": "hand (radical)"
+      },
+      {
+        "char": "丁",
+        "meaning": "nail, adult (phonetic)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "电",
+    "pinyin": "diàn",
+    "tone": 4,
+    "englishMeaning": "electricity, electric",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "日",
+        "meaning": "sun, energy"
+      },
+      {
+        "char": "乙",
+        "meaning": "second, curved stroke (lightning bolt)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "话",
+    "pinyin": "huà",
+    "tone": 4,
+    "englishMeaning": "speech, words, talk",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "舌",
+        "meaning": "tongue"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "tone": 4,
+    "englishMeaning": "ask, question",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "门",
+        "meaning": "door, gate"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth (asking at a door)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "对",
+    "pinyin": "duì",
+    "tone": 4,
+    "englishMeaning": "correct, right, toward, pair",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "又",
+        "meaning": "right hand"
+      },
+      {
+        "char": "寸",
+        "meaning": "inch, measure carefully"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "tone": 4,
+    "englishMeaning": "wrong, mistake, miss",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "钅",
+        "meaning": "metal (radical)"
+      },
+      {
+        "char": "昔",
+        "meaning": "past, formerly"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "同",
+    "pinyin": "tóng",
+    "tone": 2,
+    "englishMeaning": "same, together, with",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "冂",
+        "meaning": "frame, enclosure"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth (same words in an enclosure)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "工",
+    "pinyin": "gōng",
+    "tone": 1,
+    "englishMeaning": "work, labor, craft",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "工",
+        "meaning": "work (pictograph of a ruler/measuring tool)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "tone": 3,
+    "englishMeaning": "hundred",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one (above)"
+      },
+      {
+        "char": "白",
+        "meaning": "white (hundred as a whole)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "tone": 1,
+    "englishMeaning": "thousand",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "丿",
+        "meaning": "slash stroke"
+      },
+      {
+        "char": "十",
+        "meaning": "ten"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "tone": 4,
+    "englishMeaning": "ten thousand",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "万",
+        "meaning": "ten thousand (simplified form of 萬)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "零",
+    "pinyin": "líng",
+    "tone": 2,
+    "englishMeaning": "zero, remainder",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "雨",
+        "meaning": "rain"
+      },
+      {
+        "char": "令",
+        "meaning": "order, command (phonetic)"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "号",
+    "pinyin": "hào",
+    "tone": 4,
+    "englishMeaning": "number, date, name",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth (calling out)"
+      },
+      {
+        "char": "丂",
+        "meaning": "breath, sigh"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "哥",
+    "pinyin": "gē",
+    "tone": 1,
+    "englishMeaning": "elder brother",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "可",
+        "meaning": "can, may (doubled: two men of the same generation)"
+      },
+      {
+        "char": "可",
+        "meaning": "can, may"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "地",
+    "pinyin": "dì",
+    "tone": 4,
+    "englishMeaning": "ground, earth, place",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "土",
+        "meaning": "earth, soil"
+      },
+      {
+        "char": "也",
+        "meaning": "also (phonetic)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "路",
+    "pinyin": "lù",
+    "tone": 4,
+    "englishMeaning": "road, path, route",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "足",
+        "meaning": "foot (walking on a road)"
+      },
+      {
+        "char": "各",
+        "meaning": "each, every"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "车",
+    "pinyin": "chē",
+    "tone": 1,
+    "englishMeaning": "car, vehicle, wheel",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "车",
+        "meaning": "vehicle (pictograph of a chariot, simplified)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "气",
+    "pinyin": "qì",
+    "tone": 4,
+    "englishMeaning": "air, breath, energy, anger",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "气",
+        "meaning": "steam, air (pictograph of rising vapors)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "门",
+    "pinyin": "mén",
+    "tone": 2,
+    "englishMeaning": "door, gate",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "门",
+        "meaning": "door (pictograph of two door panels)"
+      }
+    ],
+    "strokeCount": 3
+  },
+  {
+    "hanzi": "窗",
+    "pinyin": "chuāng",
+    "tone": 1,
+    "englishMeaning": "window",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "穴",
+        "meaning": "cave, hole"
+      },
+      {
+        "char": "囱",
+        "meaning": "chimney, window"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "床",
+    "pinyin": "chuáng",
+    "tone": 2,
+    "englishMeaning": "bed",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "广",
+        "meaning": "shelter, broad"
+      },
+      {
+        "char": "木",
+        "meaning": "wood (a wooden frame shelter)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "椅",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "englishMeaning": "chair",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "wood"
+      },
+      {
+        "char": "奇",
+        "meaning": "strange, wonderful (phonetic)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "桌",
+    "pinyin": "zhuō",
+    "tone": 1,
+    "englishMeaning": "table, desk",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "wood"
+      },
+      {
+        "char": "卓",
+        "meaning": "outstanding, tall"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "苹",
+    "pinyin": "píng",
+    "tone": 2,
+    "englishMeaning": "apple (苹果)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "艹",
+        "meaning": "grass, plant (radical)"
+      },
+      {
+        "char": "平",
+        "meaning": "flat, peaceful"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "果",
+    "pinyin": "guǒ",
+    "tone": 3,
+    "englishMeaning": "fruit, result",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "tree"
+      },
+      {
+        "char": "田",
+        "meaning": "field (fruit on a tree)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "tone": 2,
+    "englishMeaning": "tea",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "艹",
+        "meaning": "grass, plant (radical)"
+      },
+      {
+        "char": "木",
+        "meaning": "tree"
+      },
+      {
+        "char": "人",
+        "meaning": "person (someone picking tea leaves)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "tone": 4,
+    "englishMeaning": "cooked rice, meal, food",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "饣",
+        "meaning": "food (radical)"
+      },
+      {
+        "char": "反",
+        "meaning": "opposite, reverse (phonetic)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "肉",
+    "pinyin": "ròu",
+    "tone": 4,
+    "englishMeaning": "meat, flesh",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "肉",
+        "meaning": "meat (pictograph of meat with sinew marks)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "tone": 2,
+    "englishMeaning": "fish",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "鱼",
+        "meaning": "fish (pictograph of a fish)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "tone": 1,
+    "englishMeaning": "cat",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "犭",
+        "meaning": "dog/animal (radical)"
+      },
+      {
+        "char": "苗",
+        "meaning": "seedling, sprout (phonetic)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "tone": 3,
+    "englishMeaning": "dog",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "犭",
+        "meaning": "dog/animal (radical)"
+      },
+      {
+        "char": "句",
+        "meaning": "sentence, phrase (phonetic)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "tone": 3,
+    "englishMeaning": "bird",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "鸟",
+        "meaning": "bird (pictograph of a bird, simplified)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "花",
+    "pinyin": "huā",
+    "tone": 1,
+    "englishMeaning": "flower, floral, spend (money)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "艹",
+        "meaning": "grass, plant (radical)"
+      },
+      {
+        "char": "化",
+        "meaning": "change, transform"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "树",
+    "pinyin": "shù",
+    "tone": 4,
+    "englishMeaning": "tree",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "木",
+        "meaning": "wood, tree"
+      },
+      {
+        "char": "寸",
+        "meaning": "inch, measure"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "风",
+    "pinyin": "fēng",
+    "tone": 1,
+    "englishMeaning": "wind",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "几",
+        "meaning": "table, almost"
+      },
+      {
+        "char": "虫",
+        "meaning": "insect (wind carries insects)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "englishMeaning": "rain",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "雨",
+        "meaning": "rain (pictograph of raindrops falling from clouds)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "tone": 3,
+    "englishMeaning": "snow",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "雨",
+        "meaning": "rain, precipitation"
+      },
+      {
+        "char": "彐",
+        "meaning": "broom (sweeping away snow)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "tone": 4,
+    "englishMeaning": "hot, heat",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "执",
+        "meaning": "hold, grasp"
+      },
+      {
+        "char": "灬",
+        "meaning": "fire (four-dot fire radical)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "tone": 3,
+    "englishMeaning": "cold",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "冫",
+        "meaning": "ice (radical)"
+      },
+      {
+        "char": "令",
+        "meaning": "command (phonetic)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "tone": 2,
+    "englishMeaning": "white, clear, plain",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "白",
+        "meaning": "white (sun just rising, pale light)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "tone": 1,
+    "englishMeaning": "black, dark",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "黑",
+        "meaning": "black (a chimney darkened by soot and fire)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "tone": 2,
+    "englishMeaning": "red",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "纟",
+        "meaning": "silk, thread (radical)"
+      },
+      {
+        "char": "工",
+        "meaning": "work, craft"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "tone": 4,
+    "englishMeaning": "green",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "纟",
+        "meaning": "silk, thread (radical)"
+      },
+      {
+        "char": "录",
+        "meaning": "record (phonetic)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "tone": 2,
+    "englishMeaning": "yellow",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "黄",
+        "meaning": "yellow (field with crops, ancient jade pendant)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "tone": 2,
+    "englishMeaning": "blue",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "艹",
+        "meaning": "grass, plant (radical)"
+      },
+      {
+        "char": "监",
+        "meaning": "supervise, watch (phonetic)"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "漂",
+    "pinyin": "piào",
+    "tone": 4,
+    "englishMeaning": "pretty, beautiful (漂亮)",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "氵",
+        "meaning": "water (radical)"
+      },
+      {
+        "char": "票",
+        "meaning": "ticket, float"
+      }
+    ],
+    "strokeCount": 14
+  },
+  {
+    "hanzi": "亮",
+    "pinyin": "liàng",
+    "tone": 4,
+    "englishMeaning": "bright, light (漂亮)",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "亠",
+        "meaning": "lid, top"
+      },
+      {
+        "char": "口",
+        "meaning": "mouth, opening (letting in light)"
+      },
+      {
+        "char": "儿",
+        "meaning": "legs (a person under the light)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "tone": 2,
+    "englishMeaning": "long, grow, elder",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "长",
+        "meaning": "long hair flowing (pictograph of long hair)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "短",
+    "pinyin": "duǎn",
+    "tone": 3,
+    "englishMeaning": "short, brief",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "矢",
+        "meaning": "arrow"
+      },
+      {
+        "char": "豆",
+        "meaning": "bean (an arrow as short as a bean)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "tone": 1,
+    "englishMeaning": "new",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "亲",
+        "meaning": "relative, close"
+      },
+      {
+        "char": "斤",
+        "meaning": "axe (cutting fresh wood = new)"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "再",
+    "pinyin": "zài",
+    "tone": 4,
+    "englishMeaning": "again, once more",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "一",
+        "meaning": "one (doing something again)"
+      },
+      {
+        "char": "冉",
+        "meaning": "tender, gradually repeat"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "tone": 2,
+    "englishMeaning": "from, follow",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person (following)"
+      },
+      {
+        "char": "人",
+        "meaning": "person (leader, two people walking)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "过",
+    "pinyin": "guò",
+    "tone": 4,
+    "englishMeaning": "pass, cross, exceed (aspect marker)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "辶",
+        "meaning": "walk (movement radical)"
+      },
+      {
+        "char": "寸",
+        "meaning": "inch (passing a small measure)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "tone": 0,
+    "englishMeaning": "aspect marker (ongoing action)",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "羊",
+        "meaning": "sheep (radical top)"
+      },
+      {
+        "char": "目",
+        "meaning": "eye (keeping an eye on something)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "tone": 3,
+    "englishMeaning": "hold, handle (bǎ-construction marker)",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "扌",
+        "meaning": "hand (radical)"
+      },
+      {
+        "char": "巴",
+        "meaning": "snake, cling (phonetic)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "tone": 3,
+    "englishMeaning": "compare, than",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "比",
+        "meaning": "two people side by side (comparing)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "tone": 0,
+    "englishMeaning": "question particle (yes/no)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth (asking)"
+      },
+      {
+        "char": "马",
+        "meaning": "horse (phonetic)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "tone": 0,
+    "englishMeaning": "question particle (what about...?)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth (asking)"
+      },
+      {
+        "char": "尼",
+        "meaning": "nun, Buddhist (phonetic)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "tone": 0,
+    "englishMeaning": "suggestion/assumption particle",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth"
+      },
+      {
+        "char": "巴",
+        "meaning": "snake, cling to (phonetic)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "啊",
+    "pinyin": "a",
+    "tone": 0,
+    "englishMeaning": "exclamation particle, ah",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "口",
+        "meaning": "mouth"
+      },
+      {
+        "char": "阿",
+        "meaning": "oh, ah (phonetic)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "因",
+    "pinyin": "yīn",
+    "tone": 1,
+    "englishMeaning": "because, cause",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "囗",
+        "meaning": "enclosure"
+      },
+      {
+        "char": "大",
+        "meaning": "big, person (a person inside something)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "为",
+    "pinyin": "wèi",
+    "tone": 4,
+    "englishMeaning": "for, because of, on behalf of",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "力",
+        "meaning": "strength, effort"
+      },
+      {
+        "char": "为",
+        "meaning": "action (a hand guiding an elephant, simplified)"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "所",
+    "pinyin": "suǒ",
+    "tone": 3,
+    "englishMeaning": "place, that which, so",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "户",
+        "meaning": "household, door"
+      },
+      {
+        "char": "斤",
+        "meaning": "axe (sound of an axe at a workshop)"
+      }
+    ],
+    "strokeCount": 8
+  },
+  {
+    "hanzi": "以",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "englishMeaning": "use, by means of, because",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person"
+      },
+      {
+        "char": "乙",
+        "meaning": "second, a tool or object"
+      }
+    ],
+    "strokeCount": 4
+  },
+  {
+    "hanzi": "得",
+    "pinyin": "de",
+    "tone": 0,
+    "englishMeaning": "structural particle (manner/degree)",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "彳",
+        "meaning": "step (walking radical)"
+      },
+      {
+        "char": "目",
+        "meaning": "eye"
+      },
+      {
+        "char": "又",
+        "meaning": "hand (getting something while walking)"
+      }
+    ],
+    "strokeCount": 11
+  },
+  {
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "tone": 3,
+    "englishMeaning": "give, to, for",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "纟",
+        "meaning": "silk, thread (radical)"
+      },
+      {
+        "char": "合",
+        "meaning": "combine, together"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "tone": 4,
+    "englishMeaning": "let, allow, yield",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "讠",
+        "meaning": "speech (radical)"
+      },
+      {
+        "char": "上",
+        "meaning": "up, offer"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "用",
+    "pinyin": "yòng",
+    "tone": 4,
+    "englishMeaning": "use, utilize",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "用",
+        "meaning": "use (pictograph of a bucket with a handle for drawing water)"
+      }
+    ],
+    "strokeCount": 5
+  },
+  {
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "tone": 3,
+    "englishMeaning": "look for, seek, find",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "扌",
+        "meaning": "hand (radical)"
+      },
+      {
+        "char": "戈",
+        "meaning": "halberd (searching with a weapon)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "tone": 3,
+    "englishMeaning": "walk, go, leave",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "走",
+        "meaning": "walk (pictograph of a person with legs in motion)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "tone": 3,
+    "englishMeaning": "run",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "足",
+        "meaning": "foot"
+      },
+      {
+        "char": "包",
+        "meaning": "wrap, package (phonetic: running to carry)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "tone": 4,
+    "englishMeaning": "sit, take (transportation)",
+    "hskLevel": 1,
+    "radicalComponents": [
+      {
+        "char": "人",
+        "meaning": "person (two people)"
+      },
+      {
+        "char": "土",
+        "meaning": "earth (sitting on the ground)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "tone": 4,
+    "englishMeaning": "stand, station, stop",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "立",
+        "meaning": "stand upright"
+      },
+      {
+        "char": "占",
+        "meaning": "occupy, divine (phonetic)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "tone": 4,
+    "englishMeaning": "sleep",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "目",
+        "meaning": "eye"
+      },
+      {
+        "char": "垂",
+        "meaning": "droop, hang down (eyes drooping in sleep)"
+      }
+    ],
+    "strokeCount": 13
+  },
+  {
+    "hanzi": "起",
+    "pinyin": "qǐ",
+    "tone": 3,
+    "englishMeaning": "rise, get up, start",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "走",
+        "meaning": "walk"
+      },
+      {
+        "char": "己",
+        "meaning": "self (rising by oneself)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "tone": 1,
+    "englishMeaning": "wear, put on (clothes)",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "穴",
+        "meaning": "cave, hole"
+      },
+      {
+        "char": "牙",
+        "meaning": "tooth, tusk (threading through a hole)"
+      }
+    ],
+    "strokeCount": 9
+  },
+  {
+    "hanzi": "衣",
+    "pinyin": "yī",
+    "tone": 1,
+    "englishMeaning": "clothing, garment",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "衣",
+        "meaning": "clothing (pictograph of a collar and sleeves)"
+      }
+    ],
+    "strokeCount": 6
+  },
+  {
+    "hanzi": "帽",
+    "pinyin": "mào",
+    "tone": 4,
+    "englishMeaning": "hat, cap",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "巾",
+        "meaning": "cloth, turban"
+      },
+      {
+        "char": "冒",
+        "meaning": "risk, emit (hat on top of the head)"
+      }
+    ],
+    "strokeCount": 12
+  },
+  {
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "tone": 2,
+    "englishMeaning": "shoe",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "革",
+        "meaning": "leather, hide"
+      },
+      {
+        "char": "圭",
+        "meaning": "jade tablet (phonetic)"
+      }
+    ],
+    "strokeCount": 15
+  },
+  {
+    "hanzi": "医",
+    "pinyin": "yī",
+    "tone": 1,
+    "englishMeaning": "medicine, doctor",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "匸",
+        "meaning": "box, enclosure"
+      },
+      {
+        "char": "矢",
+        "meaning": "arrow (medical tools in a box)"
+      }
+    ],
+    "strokeCount": 7
+  },
+  {
+    "hanzi": "病",
+    "pinyin": "bìng",
+    "tone": 4,
+    "englishMeaning": "illness, sick, disease",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "疒",
+        "meaning": "illness radical"
+      },
+      {
+        "char": "丙",
+        "meaning": "third (heavenly stem)"
+      }
+    ],
+    "strokeCount": 10
+  },
+  {
+    "hanzi": "药",
+    "pinyin": "yào",
+    "tone": 4,
+    "englishMeaning": "medicine, drug",
+    "hskLevel": 2,
+    "radicalComponents": [
+      {
+        "char": "艹",
+        "meaning": "grass, plant (radical)"
+      },
+      {
+        "char": "约",
+        "meaning": "approximately, restrain (phonetic)"
+      }
+    ],
+    "strokeCount": 9
+  }
+]

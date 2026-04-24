@@ -1,0 +1,352 @@
+[
+  {
+    "chineseText": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "englishTranslation": "I am a student.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "shi-copula"]
+  },
+  {
+    "chineseText": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "englishTranslation": "She is very pretty.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "adjectival-predicate", "hen-intensifier"]
+  },
+  {
+    "chineseText": "他喝水。",
+    "pinyin": "Tā hē shuǐ.",
+    "englishTranslation": "He drinks water.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO"]
+  },
+  {
+    "chineseText": "我们吃饭。",
+    "pinyin": "Wǒmen chī fàn.",
+    "englishTranslation": "We eat (a meal).",
+    "hskLevel": 1,
+    "grammarTags": ["SVO"]
+  },
+  {
+    "chineseText": "他在学中文。",
+    "pinyin": "Tā zài xué Zhōngwén.",
+    "englishTranslation": "He is studying Chinese.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "progressive-zai"]
+  },
+  {
+    "chineseText": "我妈妈做饭。",
+    "pinyin": "Wǒ māma zuò fàn.",
+    "englishTranslation": "My mother cooks.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "possessive-de-omitted"]
+  },
+  {
+    "chineseText": "他们都是老师。",
+    "pinyin": "Tāmen dōu shì lǎoshī.",
+    "englishTranslation": "They are all teachers.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "dou-all"]
+  },
+  {
+    "chineseText": "这本书很好看。",
+    "pinyin": "Zhè běn shū hěn hǎo kàn.",
+    "englishTranslation": "This book is very interesting to read.",
+    "hskLevel": 1,
+    "grammarTags": ["topic-comment", "measure-word-ben", "adjectival-predicate"]
+  },
+  {
+    "chineseText": "中国菜，我最喜欢吃。",
+    "pinyin": "Zhōngguó cài, wǒ zuì xǐhuān chī.",
+    "englishTranslation": "Chinese food, I like eating it the most.",
+    "hskLevel": 2,
+    "grammarTags": ["topic-comment", "zui-superlative"]
+  },
+  {
+    "chineseText": "那个问题，他不知道答案。",
+    "pinyin": "Nà ge wèntí, tā bù zhīdao dá'àn.",
+    "englishTranslation": "That question, he doesn't know the answer.",
+    "hskLevel": 2,
+    "grammarTags": ["topic-comment", "measure-word-ge"]
+  },
+  {
+    "chineseText": "请把书放在桌子上。",
+    "pinyin": "Qǐng bǎ shū fàng zài zhuōzi shàng.",
+    "englishTranslation": "Please put the book on the table.",
+    "hskLevel": 2,
+    "grammarTags": ["ba-construction", "directional-complement", "polite-request"]
+  },
+  {
+    "chineseText": "他把钱忘在家里了。",
+    "pinyin": "Tā bǎ qián wàng zài jiā lǐ le.",
+    "englishTranslation": "He forgot the money at home.",
+    "hskLevel": 2,
+    "grammarTags": ["ba-construction", "aspect-marker-le"]
+  },
+  {
+    "chineseText": "妈妈把苹果洗干净了。",
+    "pinyin": "Māma bǎ píngguǒ xǐ gānjìng le.",
+    "englishTranslation": "Mom washed the apple clean.",
+    "hskLevel": 2,
+    "grammarTags": ["ba-construction", "resultative-complement", "aspect-marker-le"]
+  },
+  {
+    "chineseText": "我有一个弟弟。",
+    "pinyin": "Wǒ yǒu yī gè dìdi.",
+    "englishTranslation": "I have a younger brother.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "measure-word-ge"]
+  },
+  {
+    "chineseText": "她买了两本书。",
+    "pinyin": "Tā mǎi le liǎng běn shū.",
+    "englishTranslation": "She bought two books.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "aspect-marker-le", "measure-word-ben"]
+  },
+  {
+    "chineseText": "我有一杯咖啡。",
+    "pinyin": "Wǒ yǒu yī bēi kāfēi.",
+    "englishTranslation": "I have a cup of coffee.",
+    "hskLevel": 1,
+    "grammarTags": ["SVO", "measure-word-bei"]
+  },
+  {
+    "chineseText": "他养了一只猫。",
+    "pinyin": "Tā yǎng le yī zhī māo.",
+    "englishTranslation": "He raised a cat.",
+    "hskLevel": 2,
+    "grammarTags": ["SVO", "aspect-marker-le", "measure-word-zhi"]
+  },
+  {
+    "chineseText": "请给我一张纸。",
+    "pinyin": "Qǐng gěi wǒ yī zhāng zhǐ.",
+    "englishTranslation": "Please give me a piece of paper.",
+    "hskLevel": 2,
+    "grammarTags": ["measure-word-zhang", "polite-request", "ditransitive"]
+  },
+  {
+    "chineseText": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "englishTranslation": "How are you?",
+    "hskLevel": 1,
+    "grammarTags": ["question-particle-ma", "greeting"]
+  },
+  {
+    "chineseText": "你喜欢喝茶吗？",
+    "pinyin": "Nǐ xǐhuān hē chá ma?",
+    "englishTranslation": "Do you like drinking tea?",
+    "hskLevel": 1,
+    "grammarTags": ["question-particle-ma", "SVO"]
+  },
+  {
+    "chineseText": "他是你朋友吗？",
+    "pinyin": "Tā shì nǐ péngyou ma?",
+    "englishTranslation": "Is he your friend?",
+    "hskLevel": 1,
+    "grammarTags": ["question-particle-ma", "shi-copula"]
+  },
+  {
+    "chineseText": "你呢？你叫什么名字？",
+    "pinyin": "Nǐ ne? Nǐ jiào shénme míngzi?",
+    "englishTranslation": "What about you? What is your name?",
+    "hskLevel": 1,
+    "grammarTags": ["question-particle-ne", "question-word-shenme"]
+  },
+  {
+    "chineseText": "他去哪儿了呢？",
+    "pinyin": "Tā qù nǎr le ne?",
+    "englishTranslation": "Where has he gone?",
+    "hskLevel": 2,
+    "grammarTags": ["question-particle-ne", "aspect-marker-le", "question-word-nar"]
+  },
+  {
+    "chineseText": "你吃了没有？",
+    "pinyin": "Nǐ chī le méiyǒu?",
+    "englishTranslation": "Have you eaten (yet)?",
+    "hskLevel": 1,
+    "grammarTags": ["aspect-marker-le", "affirmative-negative-question"]
+  },
+  {
+    "chineseText": "他吃饭了。",
+    "pinyin": "Tā chī fàn le.",
+    "englishTranslation": "He has eaten (a meal).",
+    "hskLevel": 1,
+    "grammarTags": ["aspect-marker-le", "SVO"]
+  },
+  {
+    "chineseText": "我已经买了票了。",
+    "pinyin": "Wǒ yǐjīng mǎi le piào le.",
+    "englishTranslation": "I have already bought the ticket.",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-le", "double-le", "yijing-already"]
+  },
+  {
+    "chineseText": "天气变冷了。",
+    "pinyin": "Tiānqì biàn lěng le.",
+    "englishTranslation": "The weather has turned cold.",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-le", "change-of-state"]
+  },
+  {
+    "chineseText": "我去过北京。",
+    "pinyin": "Wǒ qù guò Běijīng.",
+    "englishTranslation": "I have been to Beijing (before).",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-guo", "experiential"]
+  },
+  {
+    "chineseText": "他没学过法语。",
+    "pinyin": "Tā méi xué guò Fǎyǔ.",
+    "englishTranslation": "He has never studied French.",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-guo", "negation-mei", "experiential"]
+  },
+  {
+    "chineseText": "你以前来过这里吗？",
+    "pinyin": "Nǐ yǐqián lái guò zhèlǐ ma?",
+    "englishTranslation": "Have you been here before?",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-guo", "question-particle-ma", "experiential"]
+  },
+  {
+    "chineseText": "她坐着看书。",
+    "pinyin": "Tā zuò zhe kàn shū.",
+    "englishTranslation": "She is sitting and reading.",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-zhe", "simultaneous-actions"]
+  },
+  {
+    "chineseText": "门开着呢。",
+    "pinyin": "Mén kāi zhe ne.",
+    "englishTranslation": "The door is open.",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-zhe", "state-ongoing", "question-particle-ne"]
+  },
+  {
+    "chineseText": "他笑着说再见。",
+    "pinyin": "Tā xiào zhe shuō zàijiàn.",
+    "englishTranslation": "He said goodbye with a smile.",
+    "hskLevel": 2,
+    "grammarTags": ["aspect-marker-zhe", "simultaneous-actions"]
+  },
+  {
+    "chineseText": "请进来坐。",
+    "pinyin": "Qǐng jìn lái zuò.",
+    "englishTranslation": "Please come in and sit down.",
+    "hskLevel": 1,
+    "grammarTags": ["directional-complement-lai", "polite-request"]
+  },
+  {
+    "chineseText": "他把作业带来了。",
+    "pinyin": "Tā bǎ zuòyè dài lái le.",
+    "englishTranslation": "He brought the homework here.",
+    "hskLevel": 2,
+    "grammarTags": ["directional-complement-lai", "ba-construction", "aspect-marker-le"]
+  },
+  {
+    "chineseText": "你出去一下。",
+    "pinyin": "Nǐ chū qù yīxià.",
+    "englishTranslation": "Go outside for a moment.",
+    "hskLevel": 2,
+    "grammarTags": ["directional-complement-qu", "yixia-softener"]
+  },
+  {
+    "chineseText": "他走上来了。",
+    "pinyin": "Tā zǒu shàng lái le.",
+    "englishTranslation": "He walked up (toward the speaker).",
+    "hskLevel": 2,
+    "grammarTags": ["directional-complement-lai", "compound-directional"]
+  },
+  {
+    "chineseText": "我是昨天来的。",
+    "pinyin": "Wǒ shì zuótiān lái de.",
+    "englishTranslation": "It was yesterday that I came.",
+    "hskLevel": 2,
+    "grammarTags": ["shi-de-construction", "emphasis-time"]
+  },
+  {
+    "chineseText": "这件事是他说的。",
+    "pinyin": "Zhè jiàn shì shì tā shuō de.",
+    "englishTranslation": "It was him who said this thing.",
+    "hskLevel": 2,
+    "grammarTags": ["shi-de-construction", "emphasis-agent", "measure-word-jian"]
+  },
+  {
+    "chineseText": "他是坐飞机来的。",
+    "pinyin": "Tā shì zuò fēijī lái de.",
+    "englishTranslation": "He came by airplane.",
+    "hskLevel": 2,
+    "grammarTags": ["shi-de-construction", "emphasis-manner"]
+  },
+  {
+    "chineseText": "今天比昨天冷。",
+    "pinyin": "Jīntiān bǐ zuótiān lěng.",
+    "englishTranslation": "Today is colder than yesterday.",
+    "hskLevel": 2,
+    "grammarTags": ["comparison-bi", "adjectival-predicate"]
+  },
+  {
+    "chineseText": "他比我高一点儿。",
+    "pinyin": "Tā bǐ wǒ gāo yīdiǎnr.",
+    "englishTranslation": "He is a little taller than me.",
+    "hskLevel": 2,
+    "grammarTags": ["comparison-bi", "degree-complement"]
+  },
+  {
+    "chineseText": "这里的天气没有那里暖和。",
+    "pinyin": "Zhèlǐ de tiānqì méiyǒu nàlǐ nuǎnhuo.",
+    "englishTranslation": "The weather here is not as warm as there.",
+    "hskLevel": 2,
+    "grammarTags": ["comparison-meiyou", "negative-comparison"]
+  },
+  {
+    "chineseText": "你说汉语说得很好。",
+    "pinyin": "Nǐ shuō Hànyǔ shuō de hěn hǎo.",
+    "englishTranslation": "You speak Chinese very well.",
+    "hskLevel": 2,
+    "grammarTags": ["complement-de", "degree-complement", "topic-comment"]
+  },
+  {
+    "chineseText": "他跑步跑得很快。",
+    "pinyin": "Tā pǎobù pǎo de hěn kuài.",
+    "englishTranslation": "He runs very fast.",
+    "hskLevel": 2,
+    "grammarTags": ["complement-de", "degree-complement"]
+  },
+  {
+    "chineseText": "我听得懂中文。",
+    "pinyin": "Wǒ tīng de dǒng Zhōngwén.",
+    "englishTranslation": "I can understand Chinese (when listening).",
+    "hskLevel": 2,
+    "grammarTags": ["potential-complement-de", "resultative-complement"]
+  },
+  {
+    "chineseText": "这个字我写不好。",
+    "pinyin": "Zhè ge zì wǒ xiě bu hǎo.",
+    "englishTranslation": "I can't write this character well.",
+    "hskLevel": 2,
+    "grammarTags": ["potential-complement-bu", "topic-comment", "measure-word-ge"]
+  },
+  {
+    "chineseText": "他的中文说得流利不流利？",
+    "pinyin": "Tā de Zhōngwén shuō de liúlì bu liúlì?",
+    "englishTranslation": "Does he speak Chinese fluently?",
+    "hskLevel": 2,
+    "grammarTags": ["complement-de", "affirmative-negative-question"]
+  },
+  {
+    "chineseText": "今天天气怎么样？",
+    "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+    "englishTranslation": "How is the weather today?",
+    "hskLevel": 1,
+    "grammarTags": ["question-word-zenmeyang", "topic-comment"]
+  },
+  {
+    "chineseText": "你喜欢什么运动？",
+    "pinyin": "Nǐ xǐhuān shénme yùndòng?",
+    "englishTranslation": "What sport do you like?",
+    "hskLevel": 1,
+    "grammarTags": ["question-word-shenme", "SVO"]
+  }
+]

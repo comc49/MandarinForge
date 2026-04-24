@@ -85,13 +85,16 @@ npm install
 ### 4. Set up Firebase
 
 1. Create a project at [console.firebase.google.com](https://console.firebase.google.com)
-2. Enable **Authentication** → Sign-in methods → **Email/Password** and **Google**
-3. Go to **Project Settings → Service accounts** → Generate new private key → download JSON
-4. From the JSON file, copy:
+2. Enable **Authentication** → Sign-in methods → enable **Email/Password** and **Google**
+3. Go to **Project Settings → Service accounts** → **Generate new private key** → download the JSON file
+4. From the downloaded JSON, extract:
    - `project_id` → `FIREBASE_PROJECT_ID`
    - `client_email` → `FIREBASE_CLIENT_EMAIL`
    - `private_key` → `FIREBASE_PRIVATE_KEY`
-5. Under **Project Settings → General → Your apps**, register a Web app and copy the config values:
+     > **Important:** The private key contains literal `\n` newline sequences. In `.env.local`,
+     > wrap the value in double quotes and keep the `\n` sequences as-is:
+     > `FIREBASE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nMIIE...\n-----END PRIVATE KEY-----\n"`
+5. Under **Project Settings → General → Your apps**, register a **Web app** and copy:
    - `apiKey` → `NG_APP_FIREBASE_API_KEY`
    - `authDomain` → `NG_APP_FIREBASE_AUTH_DOMAIN`
    - `projectId` → `NG_APP_FIREBASE_PROJECT_ID`
@@ -111,10 +114,12 @@ cp .env.example .env.local
 
 ### 7. Run database migrations and seed
 
+The **exact order matters** — migrations must exist before they can be applied, and the schema must exist before seeding.
+
 ```bash
-npm run db:generate   # generate SQL from Drizzle schema
-npm run db:migrate    # apply migrations to Neon
-npm run db:seed       # load initial HSK word data
+npm run db:generate   # 1. generate SQL migration files from the Drizzle schema
+npm run db:migrate    # 2. apply migrations to Neon (uses DATABASE_URL_UNPOOLED)
+npm run db:seed       # 3. load 208 HSK 1-2 characters + 50 sentences + demo user
 ```
 
 ### 8. Start the dev server
