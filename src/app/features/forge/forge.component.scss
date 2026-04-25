@@ -1,0 +1,54 @@
+// ── Radical cards — staggered fade-in-up ────────────────────
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.radical-card {
+  opacity: 0;
+  animation: fadeInUp 0.35s ease forwards;
+}
+
+// ── Tone peg toggle buttons ───────────────────────────────────
+
+.tone-peg-btn {
+  &.peg-default {
+    @apply border-border bg-background text-foreground hover:bg-muted;
+  }
+
+  &.peg-selected {
+    @apply border-primary bg-primary/10 text-primary font-semibold;
+  }
+}
+
+// ── Mnemonic textarea ─────────────────────────────────────────
+
+.forge-textarea {
+  min-height: 5rem;      // ~3 rows
+  max-height: 13rem;     // ~8 rows
+  overflow-y: auto;
+  field-sizing: content; // Chrome 123+: auto-grows to content
+}
+
+// ── Critique panel entrance ───────────────────────────────────
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.critique-panel {
+  animation: slideDown 0.3s ease forwards;
+}

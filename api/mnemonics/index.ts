@@ -1,5 +1,5 @@
 import type { Request, Response } from 'express';
-import { eq, desc, sql } from 'drizzle-orm';
+import { and, eq, desc, sql } from 'drizzle-orm';
 import { z } from 'zod';
 import { getDb } from '../_lib/db/client';
 import { mnemonics, characters } from '../_lib/db/schema';
@@ -74,12 +74,30 @@ async function handlePost(req: Request, res: Response): Promise<void> {
 }
 
 // ---------------------------------------------------------------------------
-// GET — all mnemonics for the current user, joined with character data
+// GET — mnemonics for the current user, optionally filtered by characterId
 // ---------------------------------------------------------------------------
 async function handleGet(req: Request, res: Response): Promise<void> {
   const user = await requireAuth(req);
   const db = getDb();
 
+  const charIdParam = req.query['characterId'];
+  if (charIdParam !== undefined) {
+    // Single-mnemonic lookup: return the mnemonic or null.
+    const charId = parseInt(charIdParam as string, 10);
+    if (isNaN(charId)) {
+      error(res, 'INVALID_REQUEST', 'characterId must be a number', 400);
+      return;
+    }
+    const [row] = await db
+      .select({ mnemonic: mnemonics, character: characters })
+      .from(mnemonics)
+      .innerJoin(characters, eq(mnemonics.characterId, characters.id))
+      .where(and(eq(mnemonics.userId, user.uid), eq(mnemonics.characterId, charId)));
+    json(res, row ? { ...row.mnemonic, character: row.character } : null);
+    return;
+  }
+
+  // Full list — all mnemonics for this user, newest first.
   const rows = await db
     .select({ mnemonic: mnemonics, character: characters })
     .from(mnemonics)
@@ -87,7 +105,6 @@ async function handleGet(req: Request, res: Response): Promise<void> {
     .where(eq(mnemonics.userId, user.uid))
     .orderBy(desc(mnemonics.updatedAt));
 
-  // Flatten into a single object per row for convenient client consumption.
   json(res, rows.map(({ mnemonic, character }) => ({ ...mnemonic, character })));
 }
 
