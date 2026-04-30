@@ -1,10 +1,12 @@
 import { HttpInterceptorFn } from '@angular/common/http';
-import { inject } from '@angular/core';
+import { inject, PLATFORM_ID } from '@angular/core';
+import { isPlatformBrowser } from '@angular/common';
 import { Auth, getIdToken } from '@angular/fire/auth';
 import { from, switchMap } from 'rxjs';
 
 export const authInterceptor: HttpInterceptorFn = (req, next) => {
   if (!req.url.startsWith('/api')) return next(req);
+  if (!isPlatformBrowser(inject(PLATFORM_ID))) return next(req);
 
   const auth = inject(Auth);
   const user = auth.currentUser;
