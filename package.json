@@ -16,7 +16,6 @@
     "db:studio": "drizzle-kit studio"
   },
   "private": true,
-  "packageManager": "npm@11.12.1",
   "dependencies": {
     "@angular/cdk": "^21.2.8",
     "@angular/common": "^21.2.0",
