@@ -1,4 +1,5 @@
 import { ChangeDetectionStrategy, Component, computed, inject, resource } from '@angular/core';
+import { DatePipe } from '@angular/common';
 import { RouterLink } from '@angular/router';
 
 import { HlmButtonImports } from '@spartan-ng/helm/button';
@@ -10,7 +11,7 @@ import { ApiService, type MnemonicWithCharacter } from '../../core/services/api.
 @Component({
   selector: 'app-dashboard',
   standalone: true,
-  imports: [RouterLink, HlmButtonImports, HlmBadgeImports, HlmCardImports],
+  imports: [DatePipe, RouterLink, HlmButtonImports, HlmBadgeImports, HlmCardImports],
   changeDetection: ChangeDetectionStrategy.OnPush,
   templateUrl: './dashboard.component.html',
 })
