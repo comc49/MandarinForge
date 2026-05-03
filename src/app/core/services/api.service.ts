@@ -88,4 +88,10 @@ export class ApiService {
       this.http.get<Mnemonic | null>(`/api/mnemonics?characterId=${characterId}`),
     );
   }
+
+  getMyMnemonics(): Promise<MnemonicWithCharacter[]> {
+    return firstValueFrom(this.http.get<MnemonicWithCharacter[]>('/api/mnemonics'));
+  }
 }
+
+export type MnemonicWithCharacter = Mnemonic & { character: Character };

@@ -1,9 +1,10 @@
 import { Routes } from '@angular/router';
+import { authGuard } from './core/guards/auth.guard';
 
 export const routes: Routes = [
   {
     path: '',
-    redirectTo: 'forge/1',
+    redirectTo: 'dashboard',
     pathMatch: 'full',
   },
   {
@@ -11,12 +12,13 @@ export const routes: Routes = [
     loadComponent: () => import('./features/auth/login.component').then(m => m.LoginComponent),
   },
   {
-    path: 'forge',
-    loadChildren: () => import('./features/forge/forge.routes').then(m => m.forgeRoutes),
+    path: 'dashboard',
+    canActivate: [authGuard],
+    loadComponent: () =>
+      import('./features/dashboard/dashboard.component').then(m => m.DashboardComponent),
   },
   {
-    path: 'dashboard',
-    redirectTo: 'forge/1',
-    pathMatch: 'full',
+    path: 'forge',
+    loadChildren: () => import('./features/forge/forge.routes').then(m => m.forgeRoutes),
   },
 ];

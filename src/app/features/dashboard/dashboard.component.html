@@ -1,0 +1,84 @@
+<div class="container mx-auto max-w-5xl p-6 space-y-8">
+  <header class="flex items-center justify-between">
+    <div>
+      <h1 class="text-3xl font-bold">Dashboard</h1>
+      <p class="text-muted-foreground text-sm mt-1">
+        @if (lastActivity()) {
+          Last active {{ lastActivity() | date: 'mediumDate' }}
+        } @else {
+          Welcome — forge your first mnemonic to get started.
+        }
+      </p>
+    </div>
+    <a routerLink="/forge/1" hlmBtn>Forge new</a>
+  </header>
+
+  @if (isLoading()) {
+    <p class="text-muted-foreground">Loading…</p>
+  } @else if (error()) {
+    <p class="text-destructive">Failed to load mnemonics.</p>
+  } @else {
+    <section class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div hlmCard class="p-5">
+        <div class="text-muted-foreground text-sm">Mnemonics forged</div>
+        <div class="text-3xl font-semibold mt-2">{{ totalCount() }}</div>
+      </div>
+      <div hlmCard class="p-5">
+        <div class="text-muted-foreground text-sm">Avg vividness</div>
+        <div class="text-3xl font-semibold mt-2">
+          {{ avgVividness() ?? '—' }}
+          @if (avgVividness() !== null) {
+            <span class="text-base text-muted-foreground"> / 10</span>
+          }
+        </div>
+      </div>
+      <div hlmCard class="p-5">
+        <div class="text-muted-foreground text-sm">By HSK level</div>
+        <div class="flex flex-wrap gap-1.5 mt-2">
+          @for (b of byHskLevel(); track b.level) {
+            <span hlmBadge variant="secondary">HSK {{ b.level }}: {{ b.count }}</span>
+          } @empty {
+            <span class="text-muted-foreground text-sm">—</span>
+          }
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="text-xl font-semibold mb-4">Recent mnemonics</h2>
+      @if (recent().length === 0) {
+        <div hlmCard class="p-8 text-center">
+          <p class="text-muted-foreground">No mnemonics yet.</p>
+          <a routerLink="/forge/1" hlmBtn class="mt-4">Forge your first</a>
+        </div>
+      } @else {
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          @for (m of recent(); track m.id) {
+            <a
+              [routerLink]="['/forge', m.characterId]"
+              hlmCard
+              class="p-4 hover:border-primary transition-colors block"
+            >
+              <div class="flex items-start gap-4">
+                <div class="text-4xl font-serif">{{ m.character.hanzi }}</div>
+                <div class="flex-1 min-w-0">
+                  <div class="flex items-center gap-2">
+                    <span class="font-medium">{{ m.character.pinyin }}</span>
+                    <span hlmBadge variant="outline">HSK {{ m.character.hskLevel }}</span>
+                    @if (m.vividnessScore !== null) {
+                      <span hlmBadge variant="secondary">{{ m.vividnessScore }}/10</span>
+                    }
+                  </div>
+                  <div class="text-sm text-muted-foreground mt-1">
+                    {{ m.character.englishMeaning }}
+                  </div>
+                  <p class="text-sm mt-2 line-clamp-2">{{ m.substituteWordStory }}</p>
+                </div>
+              </div>
+            </a>
+          }
+        </div>
+      }
+    </section>
+  }
+</div>
