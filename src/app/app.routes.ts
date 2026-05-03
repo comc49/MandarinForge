@@ -14,4 +14,9 @@ export const routes: Routes = [
     path: 'forge',
     loadChildren: () => import('./features/forge/forge.routes').then(m => m.forgeRoutes),
   },
+  {
+    path: 'dashboard',
+    redirectTo: 'forge/1',
+    pathMatch: 'full',
+  },
 ];

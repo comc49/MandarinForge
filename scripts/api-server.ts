@@ -21,7 +21,10 @@ const wrap = (importPath: string): Handler => {
 app.get('/api/test', wrap('api/test.ts'));
 
 app.get('/api/characters/:id', async (req, res) => {
-  (req.query as Record<string, unknown>)['id'] = req.params['id'];
+  Object.defineProperty(req, 'query', {
+    value: { ...req.query, id: req.params['id'] },
+    configurable: true,
+  });
   const mod = await import(resolve(process.cwd(), 'api/characters/[id].ts'));
   return mod.default(req, res);
 });
