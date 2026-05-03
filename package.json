@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "dev": "node scripts/dev.mjs",
+    "dev:api": "tsx watch scripts/api-server.ts",
     "dev:vercel": "vercel dev",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",

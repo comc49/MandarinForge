@@ -1,5 +1,5 @@
 import { config } from 'dotenv';
-import { execSync } from 'child_process';
+import { spawn } from 'child_process';
 import { resolve } from 'path';
 
 config({ path: resolve(process.cwd(), '.env') });
@@ -12,9 +12,14 @@ const vars = [
   'NG_APP_FIREBASE_APP_ID',
 ];
 
-const defines = vars
+const defineArgs = vars
   .filter(k => process.env[k])
   .map(k => `--define "import.meta.env['${k}']='${process.env[k]}'"`)
   .join(' ');
 
-execSync(`ng serve ${defines}`, { stdio: 'inherit' });
+const child = spawn(`ng serve --proxy-config proxy.conf.json ${defineArgs}`, {
+  stdio: 'inherit',
+  shell: true,
+});
+
+child.on('exit', code => process.exit(code ?? 0));
