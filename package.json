@@ -7,7 +7,7 @@
     "dev": "node scripts/dev.mjs",
     "dev:api": "tsx watch scripts/api-server.ts",
     "dev:vercel": "vercel dev",
-    "build": "ng build",
+    "build": "node scripts/build.mjs",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:mandarinforge": "node dist/mandarinforge/server/server.mjs",
